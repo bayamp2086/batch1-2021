@@ -1,0 +1,55 @@
+[
+
+	{
+		"Email": "Gagan@gmail.com",
+		"PhoneNo": "9873452671",
+		"FirstName": "Gagan",
+		"LastName": "sathya",
+		"address": {
+			"street number": 21,
+			"street name": "2nd Street",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": 10021
+		},
+		"phoneNumbers": [
+        	{ "type": "home", "number": "7383627627" },
+        	{ "type": "mobile", "number": "7383627657" },
+        	{ "type": "office", "number": "8383627627" }
+    	]
+	},
+	
+	{
+		"Email": "neelsathya123@gmail.com",
+		"PhoneNo": "9874578921",
+		"FirstName": "Neel",
+		"LastName": "sathya",
+		"address": {
+			"street number": 22,
+			"street name": "2nd Street",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": 10021
+		},
+		"phoneNumbers": [
+        	{ "type": "home", "number": "7383627627" },
+        	{ "type": "mobile", "number": "7383627657" },
+        	{ "type": "office", "number": "8383627627" }
+    	]
+	}
+	},
+
+	{
+		"Email": "meeshanvab23@gmail.com",
+		"PhoneNo": "8765432109",
+		"FirstName": "Meena",
+		"LastName": "Mathew",
+		"address": {
+			"street number": 23,
+			"street name": "2nd Street",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": 10021
+		}
+	}
+]
